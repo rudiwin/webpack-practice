@@ -22,7 +22,6 @@ const loadRecipe = async function (id) {
     };
     console.log(state.recipe);
   } catch (err) {
-    console.error(`${err} 💥💥💥`);
     throw err;
   }
 };
