@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('/'), url('./nunito-sans-condensed_regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'NunitoSans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('/'), url('./nunito-sans-condensed_semibold.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'NunitoSans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('/'), url('./nunito-sans-condensed_bold.ttf') format('ttf');
+}
